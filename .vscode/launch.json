@@ -1,0 +1,118 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ServerWithDatabase",
+            "request": "launch",
+            "mainClass": "BackEnd.ServerWithDatabase",
+            "projectName": "Final_Project_830ed543"
+        },
+        {
+            "type": "java",
+            "name": "DatabaseHttpServer",
+            "request": "launch",
+            "mainClass": "BackEnd.DatabaseHttpServer",
+            "projectName": "Final_Project_830ed543"
+        },
+        {
+            "type": "java",
+            "name": "SimpleHttpServer",
+            "request": "launch",
+            "mainClass": "BackEnd.SimpleHttpServer",
+            "projectName": "Final_Project_830ed543"
+        },
+        {
+            "type": "java",
+            "name": "DataLayer",
+            "request": "launch",
+            "mainClass": "BackEnd.DataLayer",
+            "projectName": "Final_Project_830ed543"
+        },
+        {
+            "type": "java",
+            "name": "LocalhostServer2",
+            "request": "launch",
+            "mainClass": "BackEnd.Server.LocalhostServer2",
+            "projectName": "Final_Project_830ed543"
+        },
+        {
+            "type": "java",
+            "name": "LocalhostServer",
+            "request": "launch",
+            "mainClass": "BackEnd.Server.LocalhostServer",
+            "projectName": "Final_Project_830ed543"
+        },
+        {
+            "type": "java",
+            "name": "ProductWebServer",
+            "request": "launch",
+            "mainClass": "BackEnd.Web.ProductWebServer",
+            "projectName": "Final_Project_830ed543",
+            "vmArgs": "-cp \"D:/Fulbright/Year 3/OOP/Final_Project/lib/mysql-connector-j-9.1.0.jar;D:/Fulbright/Year 3/OOP/Final_Project/lib/gson-2.11.0.jar;D:/Fulbright/Year 3/OOP/Final_Project/lib/mongodb-driver-sync-4.11.1.jar;D:/Fulbright/Year 3/OOP/Final_Project/lib/mongodb-driver-core-4.11.1.jar;D:/Fulbright/Year 3/OOP/Final_Project/lib/bson-4.11.1.jar\""
+        },
+        {
+            "type": "java",
+            "name": "ProductWebServer",
+            "request": "launch",
+            "mainClass": "ProductWebServer",
+            "projectName": "Final_Project_830ed543",
+            "vmArgs": "-cp \"D:/Fulbright/Year 3/OOP/Final_Project/lib/mysql-connector-j-9.1.0.jar;D:/Fulbright/Year 3/OOP/Final_Project/lib/gson-2.11.0.jar;D:/Fulbright/Year 3/OOP/Final_Project/lib/mongodb-driver-sync-4.11.1.jar;D:/Fulbright/Year 3/OOP/Final_Project/lib/mongodb-driver-core-4.11.1.jar;D:/Fulbright/Year 3/OOP/Final_Project/lib/bson-4.11.1.jar\""
+        },
+        {
+            "type": "java",
+            "name": "Manager_app",
+            "request": "launch",
+            "mainClass": "Clients.Manager.Manager_app",
+            "projectName": "Final_Project_830ed543",
+            "vmArgs": "-cp \"D:/Fulbright/Year 3/OOP/Final_Project/lib/mysql-connector-j-9.1.0.jar;D:/Fulbright/Year 3/OOP/Final_Project/lib/gson-2.11.0.jar;D:/Fulbright/Year 3/OOP/Final_Project/lib/mongodb-driver-sync-4.11.1.jar;D:/Fulbright/Year 3/OOP/Final_Project/lib/mongodb-driver-core-4.11.1.jar;D:/Fulbright/Year 3/OOP/Final_Project/lib/bson-4.11.1.jar\""
+        },
+        {
+            "type": "java",
+            "name": "ManagerMainView",
+            "request": "launch",
+            "mainClass": "Clients.Manager.View.ManagerMainView",
+            "projectName": "Final_Project_830ed543",
+            "vmArgs": "-cp \"D:/Fulbright/Year 3/OOP/Final_Project/lib/mysql-connector-j-9.1.0.jar;D:/Fulbright/Year 3/OOP/Final_Project/lib/gson-2.11.0.jar;D:/Fulbright/Year 3/OOP/Final_Project/lib/mongodb-driver-sync-4.11.1.jar;D:/Fulbright/Year 3/OOP/Final_Project/lib/mongodb-driver-core-4.11.1.jar;D:/Fulbright/Year 3/OOP/Final_Project/lib/bson-4.11.1.jar\""
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "vmArgs": "-cp \"D:/Fulbright/Year 3/OOP/Final_Project/lib/mysql-connector-j-9.1.0.jar;D:/Fulbright/Year 3/OOP/Final_Project/lib/gson-2.11.0.jar;D:/Fulbright/Year 3/OOP/Final_Project/lib/mongodb-driver-sync-4.11.1.jar;D:/Fulbright/Year 3/OOP/Final_Project/lib/mongodb-driver-core-4.11.1.jar;D:/Fulbright/Year 3/OOP/Final_Project/lib/bson-4.11.1.jar\""
+        },
+        {
+            "type": "java",
+            "name": "Cashier_app",
+            "request": "launch",
+            "mainClass": "Clients.Cashier.Cashier_app",
+            "projectName": "Final_Project_830ed543",
+            "vmArgs": "-cp \"D:/Fulbright/Year 3/OOP/Final_Project/lib/mysql-connector-j-9.1.0.jar;D:/Fulbright/Year 3/OOP/Final_Project/lib/gson-2.11.0.jar;D:/Fulbright/Year 3/OOP/Final_Project/lib/mongodb-driver-sync-4.11.1.jar;D:/Fulbright/Year 3/OOP/Final_Project/lib/mongodb-driver-core-4.11.1.jar;D:/Fulbright/Year 3/OOP/Final_Project/lib/bson-4.11.1.jar\""
+        },
+        {
+            "type": "java",
+            "name": "Customer_app",
+            "request": "launch",
+            "mainClass": "Clients.Customer.Customer_app",
+            "projectName": "Final_Project_830ed543",
+            "vmArgs": "-cp \"D:/Fulbright/Year 3/OOP/Final_Project/lib/mysql-connector-j-9.1.0.jar;D:/Fulbright/Year 3/OOP/Final_Project/lib/gson-2.11.0.jar;D:/Fulbright/Year 3/OOP/Final_Project/lib/mongodb-driver-sync-4.11.1.jar;D:/Fulbright/Year 3/OOP/Final_Project/lib/mongodb-driver-core-4.11.1.jar;D:/Fulbright/Year 3/OOP/Final_Project/lib/bson-4.11.1.jar\""
+        },
+        {
+            "type": "java",
+            "name": "CustomerMainView",
+            "request": "launch",
+            "mainClass": "Clients.Customer.View.CustomerMainView",
+            "projectName": "Final_Project_830ed543",
+            "vmArgs": "-cp \"D:/Fulbright/Year 3/OOP/Final_Project/lib/mysql-connector-j-9.1.0.jar;D:/Fulbright/Year 3/OOP/Final_Project/lib/gson-2.11.0.jar;D:/Fulbright/Year 3/OOP/Final_Project/lib/mongodb-driver-sync-4.11.1.jar;D:/Fulbright/Year 3/OOP/Final_Project/lib/mongodb-driver-core-4.11.1.jar;D:/Fulbright/Year 3/OOP/Final_Project/lib/bson-4.11.1.jar\""
+        },
+        {
+            "type": "java",
+            "name": "MongoDB Data Transfer",
+            "request": "launch",
+            "mainClass": "BackEnd.MongoDB.DataTransfer",
+            "projectName": "Final_Project_830ed543",
+            "vmArgs": "-cp \"D:/Fulbright/Year 3/OOP/Final_Project/lib/mysql-connector-j-9.1.0.jar;D:/Fulbright/Year 3/OOP/Final_Project/lib/gson-2.11.0.jar;D:/Fulbright/Year 3/OOP/Final_Project/lib/mongodb-driver-sync-4.11.1.jar;D:/Fulbright/Year 3/OOP/Final_Project/lib/mongodb-driver-core-4.11.1.jar;D:/Fulbright/Year 3/OOP/Final_Project/lib/bson-4.11.1.jar\""
+        }
+    ]
+}
